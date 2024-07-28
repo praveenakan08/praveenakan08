@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Praveena Kandukuri</h1>
-<h3 align="center">Software Developer, always learning</h3>
 
 <h5 align="center">I believe in constant self-improvement, striving to become a better version of myself every day. My experience has taught me the value of teamwork, effective communication, and adaptability in the fast-paced tech industry. 
 </h5>
