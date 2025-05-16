@@ -1,13 +1,10 @@
 <h1 align="center">Hello 👋, I'm Praveena Kandukuri</h1>
 <h3 align="center">Software Engineer</h3>
 
-<h5 align="center">
+<h5 align="left">
 I am currently working as a Software Engineer Intern at Copart.
-Actively looking for Full Time Software Engineer Opportunities.
-</h5>
-
-<h5 align="center">
-I believe in constant self-improvement, striving to become a better version of myself every day. My experience has taught me the value of teamwork, effective communication, and adaptability in the fast-paced tech industry. 
+I bring with me 3 years of Software Engineering experience with full stack technologies such as Spring Boot, ReactJs, Angular, programming languages such as Java, TypeScript. Databases such as MySQL, SQL. Infrastructure experience in   
+Actively looking for Full Time Software Engineer Opportunities. I believe in constant self-improvement, striving to become a better version of myself every day. My experience has taught me the value of teamwork, effective communication, and adaptability in the fast-paced tech industry. 
 </h5>
 
 - 📫 How to reach me **praveenakandukuri24@gmail.com**
