@@ -4,8 +4,6 @@
 <h5 align="center">I believe in constant self-improvement, striving to become a better version of myself every day. My experience has taught me the value of teamwork, effective communication, and adaptability in the fast-paced tech industry. 
 </h5>
 
-- 🔭 I’m currently working on [Blue Brain](https://github.com/praveenakan08/BlueBrain-FrontEnd)
-- 🌱 I’m currently learning **Angular**
 - 📫 How to reach me **praveenakandukuri24@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenakan08&label=Profile%20views&color=0e75b6&style=flat" alt="praveenakan08" /> </p>
