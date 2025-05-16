@@ -1,7 +1,13 @@
 <h1 align="center">Hello 👋, I'm Praveena Kandukuri</h1>
 <h3 align="center">Software Engineer</h3>
 
-<h5 align="center">I believe in constant self-improvement, striving to become a better version of myself every day. My experience has taught me the value of teamwork, effective communication, and adaptability in the fast-paced tech industry. 
+<h5 align="center">
+I am currently working as a Software Engineer Intern at Copart.
+Actively looking for Full Time Software Engineer Opportunities.
+</h5>
+
+<h5 align="center">
+I believe in constant self-improvement, striving to become a better version of myself every day. My experience has taught me the value of teamwork, effective communication, and adaptability in the fast-paced tech industry. 
 </h5>
 
 - 📫 How to reach me **praveenakandukuri24@gmail.com**
