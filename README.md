@@ -3,7 +3,7 @@
 
 - I am currently working as a Software Engineer Intern at Copart, actively seeking full-time Software Engineer opportunities. I bring with me 3 years of Software Engineering experience with full stack technologies such as Spring Boot, ReactJS, Angular using programming languages such as Java, TypeScript and SQL.
 
-- My backend development skills involve REST APIs, message driven tools like Apache Kafke, RabbitMQ, as well as frontend UI development using Tailwind CSS, MUI. I've also worked with relational and NoSQL databases including MySQL, MongoDB, and ClickHouse.
+- My backend development skills involve REST APIs, message driven tools like Apache Kafka, RabbitMQ, as well as frontend UI development using Tailwind CSS, MUI. I've also worked with relational and NoSQL databases including MySQL, MongoDB, and ClickHouse.
 
 - I believe in constant self-improvement, striving to become a better version of myself every day. My experience has taught me the value of teamwork, effective communication, and adaptability in the fast-paced tech industry. 
 
