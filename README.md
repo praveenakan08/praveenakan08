@@ -1,11 +1,12 @@
 <h1 align="center">Hello 👋, I'm Praveena Kandukuri</h1>
 <h3 align="center">Software Engineer</h3>
 
-<h5 align="left">
-I am currently working as a Software Engineer Intern at Copart.
-I bring with me 3 years of Software Engineering experience with full stack technologies such as Spring Boot, ReactJs, Angular, programming languages such as Java, TypeScript. Databases such as MySQL, SQL. Infrastructure experience in   
-Actively looking for Full Time Software Engineer Opportunities. I believe in constant self-improvement, striving to become a better version of myself every day. My experience has taught me the value of teamwork, effective communication, and adaptability in the fast-paced tech industry. 
-</h5>
+- I am currently working as a Software Engineer Intern at Copart, actively seeking full-time Software Engineer opportunities. I bring with me 3 years of Software Engineering experience with full stack technologies such as Spring Boot, ReactJS, Angular using programming languages such as Java, TypeScript and SQL.
+
+- My backend development skills involve REST APIs, message driven frameworks like Apache Kafke, RabbitMQ, as well as frontend UI development using Tailwind CSS, MUI. I've also worked with relational and NoSQL databases including MySQL, MongoDB, and ClickHouse.
+
+- I believe in constant self-improvement, striving to become a better version of myself every day. My experience has taught me the value of teamwork, effective communication, and adaptability in the fast-paced tech industry. 
+
 
 - 📫 How to reach me **praveenakandukuri24@gmail.com**
 <h3 align="center" style="display: inline-block; margin-right: 10px;">Connect with me</h3>
@@ -15,7 +16,7 @@ Actively looking for Full Time Software Engineer Opportunities. I believe in con
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenakan08&label=Profile%20views&color=0e75b6&style=flat" alt="praveenakan08" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=praveenakan08&label=Profile%20views&color=0e75b6&style=flat" alt="praveenakan08" /> </p>
 
 ## Skills
 <table>
