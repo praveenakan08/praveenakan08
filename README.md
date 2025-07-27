@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Praveena Kandukuri</h1>
 <h3 align="center">Software Engineer</h3>
 
-- I am currently working as a Software Engineer Intern at Copart, actively seeking full-time Software Engineer opportunities. I bring with me 3 years of Software Engineering experience with full stack technologies such as Spring Boot, ReactJS, Angular using programming languages such as Java, TypeScript and SQL.
+- I am currently working as a Software Engineer at Copart, actively seeking full-time Software Engineer opportunities. I bring with me 3 years of Software Engineering experience with full stack technologies such as Spring Boot, ReactJS, Angular using programming languages such as Java, TypeScript and SQL.
 
 - My backend development skills involve REST APIs, message driven tools like Apache Kafka, RabbitMQ, as well as frontend UI development using Tailwind CSS, MUI. I've also worked with relational and NoSQL databases including MySQL, MongoDB, and ClickHouse.
 
